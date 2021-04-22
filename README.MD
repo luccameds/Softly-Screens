@@ -1,4 +1,4 @@
-# Frontend Mentor - Coding Bootcamp Testimonials Slider
+# Softly Screens - FrontEnd UI/UX
 
 ![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./assets/banner.png)
 
